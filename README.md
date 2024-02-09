@@ -1,3 +1,5 @@
+![Capture 21](https://github.com/MrWoafer/Code-Cracker/assets/159387325/3fab6620-6f50-4766-87c6-e6aa223b8c59)
+
 # Code Cracker
 
 A tool for automated solving of messages encrypted with classical ciphers. It primarily uses the approach of Simulated Annealing. Also includes statistical tests to help identify ciphers and can suggest possible cipher types for you.
