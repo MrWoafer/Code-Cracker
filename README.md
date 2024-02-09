@@ -1,4 +1,4 @@
-# Code-Cracker
+# Code Cracker
 
 A tool for automated solving of messages encrypted with classical ciphers. It primarily uses the approach of Simulated Annealing. Also includes statistical tests to help identify ciphers and can suggest possible cipher types for you.
 
