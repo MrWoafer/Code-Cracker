@@ -39,7 +39,7 @@ The program can solve the following cipher types:
   * Rail fence
   * Cadenus
 * Combinations
-  * ADFGV
+  * ADFGX
   * ADFGVX
   * ABCDEFGHIK (ADFGVX but can substitute 3-grams or 4-grams etc)
   * Mono sub + transposition
